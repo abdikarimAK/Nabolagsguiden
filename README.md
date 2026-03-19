@@ -14,7 +14,6 @@ Nabolagsguiden lets you type in any Norwegian address and instantly get a neighb
 - See all nearby points of interest plotted on an interactive map
 - Compare two neighborhoods side by side
 - Adjust the search radius (500m, 1km, 2km, 3km)
-- Share results via a direct URL link
 
 ---
 
